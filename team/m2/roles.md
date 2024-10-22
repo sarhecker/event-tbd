@@ -5,7 +5,7 @@
 - **Top 3 Commits**:
   1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/a7e50799ade1635254206db58644a5cb1d3a7613): Created the initial github repository.
   2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/396cd507adc1defefa50c74b3faacecf9e217faf): Worked on the ui-diagrams.md file.
-  3. Commit 3: Adding meeting notes to the "Account Creation #2" to update the team.
+  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/a429e480be82835f0da1148252bc77491ab30ced): Completing to ui-diagrams.md file.
 
 #### Sean Rodgers - Timekeeper
 - **Role**: Tracks schedules and reminds team members of important due dates and meetings.
@@ -32,7 +32,7 @@
 - **Role**: Manages the team’s communication tools and handles any issues that arise in relation to communication.
 - **Top 3 Commits**:
   1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/97ecefc76f0308c1c44f5a68fd1aa3d0cb6916a0): Worked on and completed user.md file.
-  2. [Commit 2]() Help complete data.md file.
+  2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/1678694ed340472b24b0dd1c4d8c1964782fc420) Help complete data.md file.
   3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/4e4b36dc77957c4c695d62ef45cf0003c30c4a89): Updated contribution file in the report folder.
 
 #### Kimleng Kit - Quality Control
@@ -40,11 +40,11 @@
 - **Top 3 Commits**:
   1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/issues/2): Create "Account Creation" issue.
   2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/93a36ac4330ae5f961da172902fa9501c72dba6d): Completed problem.md file.
-  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/b564891244b9fb1d9ce604c0eba802c9850cb219): Edit roles.md by adding links to the commits.
+  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/89108b81c501c44ec9e02b1a25b4b0d4bccebf56): Edit roles.md by adding links to the commits.
 
 #### Kailin Luo - Documentation Leader
 - **Role**: In charge of keeping the repository organized so the team can work on the project at max efficiency.
 - **Top 3 Commits**:
-  1. Commit 1: Generally helped each member organized their files according to their needs.
+  1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/1678694ed340472b24b0dd1c4d8c1964782fc420): Updated problem.md to align with features.md.
   2. Commit 2: Organized the repository so that each member of the group can best work on their assigned features.
   3. Commit 3: Created clear documentation of what needs to be finished for each milestone of the project.
