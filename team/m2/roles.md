@@ -3,9 +3,9 @@
 #### Felix Pantoja - Project Manager
 - **Role**: Responsible for coordinating team meetings, organizing the repository, and making sure everyone remains on track.
 - **Top 3 Commits**:
-  1. Commit 1: Created the initial github repository.
-  2. Commit 2: Made sure that everyone was clear on their responsibilities.
-  3. Commit 3: Helped with the ui-diagrams.md file.
+  1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/a7e50799ade1635254206db58644a5cb1d3a7613): Created the initial github repository.
+  2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/396cd507adc1defefa50c74b3faacecf9e217faf): Worked on the ui-diagrams.md file.
+  3. Commit 3: Adding meeting notes to the "Account Creation #2" to update the team.
 
 #### Sean Rodgers - Timekeeper
 - **Role**: Tracks schedules and reminds team members of important due dates and meetings.
@@ -31,16 +31,16 @@
 #### Rihui Lui - Communication Leader
 - **Role**: Manages the team’s communication tools and handles any issues that arise in relation to communication.
 - **Top 3 Commits**:
-  1. Commit 1: Set up the group chat for the team.
-  2. Commit 2: Worked on the users.md file.
-  3. Commit 3: Helped communicate to the team what each member will work at any given time.
+  1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/97ecefc76f0308c1c44f5a68fd1aa3d0cb6916a0): Worked on and completed user.md file.
+  2. [Commit 2]() Help complete data.md file.
+  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/4e4b36dc77957c4c695d62ef45cf0003c30c4a89): Updated contribution file in the report folder.
 
 #### Kimleng Kit - Quality Control
 - **Role**: Reviews documents and code, ensuring everything meets the project’s standards before the group's submission.
 - **Top 3 Commits**:
-  1. Commit 1: Ensured all of the files generally were up to par with the guidelines of the project.
-  2. Commit 2: Worked on the project.md file.
-  3. Commit 3: Performed last minute checks when all files were ready to be submitted.
+  1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/issues/2): Create "Account Creation" issue.
+  2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/93a36ac4330ae5f961da172902fa9501c72dba6d): Completed problem.md file.
+  3. Commit 3: Edit roles.md by adding links to the commits.
 
 #### Kailin Luo - Documentation Leader
 - **Role**: In charge of keeping the repository organized so the team can work on the project at max efficiency.
