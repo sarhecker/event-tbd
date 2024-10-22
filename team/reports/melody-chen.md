@@ -8,6 +8,6 @@
 
 ### October 17, 2024
 
-- **Task**: Finished `problem.md` file.
-- **Details**: Added problem description and target audience
+- **Task**: Merged `problem.md` file.
+- **Details**: Merged changes into main.
 - **Link to Commit**: [Commit](https://github.com/Fpantoja2001/event-tbd/commit/f46995d8343a459009c8234742549398cfab3565)
