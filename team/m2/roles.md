@@ -47,4 +47,4 @@
 - **Top 3 Commits**:
   1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/1678694ed340472b24b0dd1c4d8c1964782fc420): Updated problem.md to align with features.md.
   2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/4166fa07c39f446e93cc71c2e9d6f1c444b1f1d2): created and help team member with report documentation
-  3. Commit 3: Created clear documentation of what needs to be finished for each milestone of the project.
+  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/d97bef7591b7abf95111a0f2f30ec036010dc820): assigned team members to features.md
