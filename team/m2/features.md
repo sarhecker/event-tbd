@@ -23,10 +23,10 @@
 -  Users can rate the events they go to
 -  Hosts are assigned scores based on their event ratings
 -  Anonymous feedback
-- One review per attendee
+-  One review per attendee
 
 ## Heat Map
 - Visual representation of the concentration of events
-- Gradient surrounding each event on the map that represents hwo populated an event is
+- Gradient surrounding each event on the map that represents how populated an event is
 - Filter and search through tags
 
