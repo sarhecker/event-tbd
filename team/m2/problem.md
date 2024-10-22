@@ -13,6 +13,8 @@ We want to introduce an app for event organizers and attendees that makes it sim
 3. **Communicate with other attendees or the host** through the app with our messaging features. 
 4. **Personalized event recommendations** to help users seek other events that matches their interests and encourage users to participate in more events.
 5. **Host events** where users can host their own events in their area to meet other liked-minded individuals.
+6. **Review Events** users will be able to rate and leave one review for each event they attend.
+7. **Find Events** the heat map will allow users to filter and search through tags to find events they are interested in.
 
 ## Why This Matters
 
