@@ -8,6 +8,12 @@
 
 ### October 17, 2024
 
-- **Task**: Completed the draft for `problem.md` file.
+- **Task**: Completed `problem.md` file.
 - **Details**: Wrote the problem, proposed solution, and why it matters according to the team's discussion.
 - **Link to Commit**: [Commit on Problem.md](https://github.com/Fpantoja2001/event-tbd/commit/93a36ac4330ae5f961da172902fa9501c72dba6d)
+
+### October 21, 2024
+
+- **Task**: Completed `role.md` file.
+- **Details**: Updating everyone's commits and added links to each commits.
+- **Link to Commit**: [Commit on Roles.md](https://github.com/Fpantoja2001/event-tbd/commit/89108b81c501c44ec9e02b1a25b4b0d4bccebf56)
