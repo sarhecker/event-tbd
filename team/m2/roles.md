@@ -12,7 +12,7 @@
 - **Top 3 Commits**:
   1. [Commit 1](https://github.com/Fpantoja2001/event-tbd/commit/2a65f4c4e94338c86c743bf617c2918611ae2985): Created roles.md descriptions.
   2. [Commit 2](https://github.com/Fpantoja2001/event-tbd/commit/ae02a06e1c9d6c8e78099a5a7f4320a3daef4f82): Updated contribution file in the report folder.
-  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/2a65f4c4e94338c86c743bf617c2918611ae2985): Helped format the roles.md file.
+  3. [Commit 3](https://github.com/Fpantoja2001/event-tbd/commit/db1f8af282e02172ecc7fb185c3613edcb090241): Helped format the roles.md file.
 
 #### Sarah Hecker - Note-Taker
 - **Role**: Ensures that each members' greatest and most important ideas are captured and shared with the team.
