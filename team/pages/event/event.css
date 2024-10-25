@@ -1,6 +1,27 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
 
-.columns{
-    border: 2px solid #3498db; /* Adjust color and thickness as needed */
-    border-radius: 4px; /* Optional: adds rounded corners */
+.category{
+    font-size: 1.5vw; /* font size relative to view-width*/
+    height: 15vw;
 }
+
+.column{
+    flex-grow:21;
+
+    padding: 3vw;
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-bottom: 3%;
+    border: 2px solid #3498db; 
+    border-radius: 4px; 
+    font-size: 1.5vw; /* font size relative to view-width*/
+}
+
+.scrollable_column {
+    overflow-x: auto;       
+    white-space: nowrap;    
+    max-width: 100%;      
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+} 
+
