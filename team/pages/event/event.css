@@ -1,1 +1,6 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+.columns{
+    border: 2px solid #3498db; /* Adjust color and thickness as needed */
+    border-radius: 4px; /* Optional: adds rounded corners */
+}
